@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Data+Developer;Analytics+|+ML+|+Dashboards;Powered+by+Python+%26+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Arya+Abnish+Singh;Machine+Learning+%26+Data+Developer" />
 </p>
-
----
-
-## 👋 Hi, I’m **Arya Singh**
-**Machine Learning & Data-Focused Developer** building intelligent systems, visual dashboards, and analytical solutions.
 
 ---
 
@@ -82,12 +77,12 @@ Benchmarking quantum & classical approaches for risk analysis.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaSingh16&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaSingh16&hide_border=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaSingh16&show_icons=true&theme=github" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=AryaSingh16&theme=github" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSingh16&layout=compact&hide_border=true&theme=default" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSingh16&layout=compact&theme=github" width="40%" />
 </p>
 
 ---
