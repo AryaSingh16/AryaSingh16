@@ -76,11 +76,17 @@ Benchmarking quantum & classical approaches for risk analysis.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaSingh16&show_icons=true&theme=github" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AryaSingh16&show_icons=true&theme=github&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSingh16&layout=compact&theme=github" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSingh16&layout=compact&theme=github&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
 
