@@ -1,11 +1,8 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AryaSingh16/AryaSingh16/main/github-metrics.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi!+This+is+Arya+Abnish+Singh;Machine+Learning+%26+Data+Developer" />
 </p>
 
----
-
-## 👋 Arya Singh
-### Machine Learning & Data-Focused Developer
 
 <p align="center">
   <i>Building intelligent systems • Data-driven insights • Analytical dashboards</i>
@@ -50,13 +47,6 @@
 
 ---
 
-## 📊 GitHub Metrics Dashboard
-
-<p align="center">
-  <img src="github-metrics.svg" />
-</p>
-
----
 
 ## 🧩 Core Strengths
 
