@@ -73,19 +73,16 @@ Benchmarking quantum & classical approaches for risk analysis.
 🔗 GitHub: https://github.com/AryaSingh16/Quantum-Market-Risk-System
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaSingh16&show_icons=true&theme=github" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=AryaSingh16&theme=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaSingh16&show_icons=true&theme=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSingh16&layout=compact&theme=github" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSingh16&layout=compact&theme=github" />
 </p>
 
----
 
 ## 🏆 Strengths
 
