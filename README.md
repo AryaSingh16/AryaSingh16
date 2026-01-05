@@ -53,6 +53,6 @@
 <p align="center">
   🧠 Problem Solving & Algorithms &nbsp;•&nbsp;
   📊 Data Analytics & ML &nbsp;•&nbsp;
-  📈 Dashboard Storytelling &nbsp;•&nbsp;
+  📈 Self Learning &nbsp;•&nbsp;
   🤝 Leadership & Communication
 </p>
