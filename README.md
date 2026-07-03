@@ -1,17 +1,17 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:60A5FA,35:22C55E,70:A855F7,100:0F172A&text=Arya%20Abnish%20Singh&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=40&"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:60A5FA,35:22C55E,70:A855F7,100:0F172A&text=Arya%20Abnish%20Singh&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&"
     width="100%"
   />
 </p>
 
-<p align="center">
-  <span style="font-size: 28px; font-style: italic;">
-    ❝ Do what you can, where you are, with what you have. ❞
-  </span>
-  <br><br>
-  <sub><b>— Theodore Roosevelt</b></sub>
-</p>
+<div align="center">
+
+<h3>✦ <em>Do what you can, where you are, with what you have.</em> ✦</h3>
+
+<sub>THEODORE ROOSEVELT</sub>
+
+</div>
 
 <p align="center">
 Engineering student exploring machine learning through hands-on projects and software systems. I enjoy building practical solutions, learning by debugging, and understanding how data can be used to solve real-world problems.
@@ -107,7 +107,7 @@ End-to-end ML projects · Data-driven applications · Open-source contributions 
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:60A5FA,35:22C55E,70:A855F7,100:0F172A"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:60A5FA,35:22C55E,70:A855F7,100:0F172A"
     width="100%"
   />
 </p>
