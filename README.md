@@ -1,58 +1,113 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi!+This+is+Arya+Abnish+Singh;Machine+Learning+%26+Data+Developer" />
-</p>
-
-
-<p align="center">
-  <i>Building intelligent systems • Data-driven insights • Analytical dashboards</i>
-</p>
-
----
-
-## 🧠 Tech Stack Overview
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,docker,fastapi,linux,aws,vscode" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:60A5FA,35:22C55E,70:A855F7,100:0F172A&text=Arya%20Abnish%20Singh&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=40&"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20Keras-red" />
-  <img src="https://img.shields.io/badge/Quantum%20Computing-PennyLane-purple" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-Tableau%20%7C%20PowerBI-blue" />
+  <span style="font-size: 28px; font-style: italic;">
+    ❝ Do what you can, where you are, with what you have. ❞
+  </span>
+  <br><br>
+  <sub><b>— Theodore Roosevelt</b></sub>
 </p>
 
----
-
-## 🚀 Project Analytics Showcase
-
 <p align="center">
-  <a href="https://github.com/AryaSingh16/IBM-Python-DS-Project">
-    <img src="https://img.shields.io/badge/Data%20Science-IBM%20Python%20Project-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/AryaSingh16/Spotify-Virality-Dashboard">
-    <img src="https://img.shields.io/badge/BI%20Dashboard-Spotify%20Virality-green?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/AryaSingh16/Fuzzy-ML-Models">
-    <img src="https://img.shields.io/badge/ML%20Research-Fuzzy%20Models-orange?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/AryaSingh16/Behaviour-Drift-Observatory">
-    <img src="https://img.shields.io/badge/Monitoring-Behaviour%20Drift-red?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/AryaSingh16/Quantum-Market-Risk-System">
-    <img src="https://img.shields.io/badge/Quantum%20Finance-Market%20Risk-purple?style=for-the-badge" />
-  </a>
+Engineering student exploring machine learning through hands-on projects and software systems. I enjoy building practical solutions, learning by debugging, and understanding how data can be used to solve real-world problems.
+</p>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,50:22C55E,100:A855F7"
+    width="85%"
+  />
 </p>
 
----
 
+<h3 align="center">🛠 Tech Stack</h3>
 
-## 🧩 Core Strengths
+<table align="center">
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,c" />
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=docker,fastapi,linux,aws,vscode" />
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  </td>
+</tr>
+</table>
 
 <p align="center">
-  🧠 Problem Solving & Algorithms &nbsp;•&nbsp;
-  📊 Data Analytics & ML &nbsp;•&nbsp;
-  📈 Self Learning &nbsp;•&nbsp;
-  🤝 Leadership & Communication
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,50:22C55E,100:A855F7"
+    width="85%"
+  />
+</p>
+
+<h3 align="center">🎯 Building Towards</h3>
+<p align="center">
+Machine Learning Engineering · Data Systems · Applied Analytics
+
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,50:22C55E,100:A855F7"
+    width="85%"
+  />
+</p>
+
+<h3 align="center">📊 Statistics</h3>
+<p align="center">
+  <img width="435px" src="https://github-readme-stats.vercel.app/api?username=AryaSingh16&show_icons=true&hide_border=true&hide_title=true&theme=dark"/>
+  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=AryaSingh16&hide_border=true&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryaSingh16&theme=dark&hide_border=true&hide_title=true"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,50:22C55E,100:A855F7"
+    width="85%"
+  />
+</p>
+
+<h3 align="center">🤝 Ready to Collaborate</h3>
+<p align="center">
+End-to-end ML projects · Data-driven applications · Open-source contributions · Solving real-world challenges
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,50:22C55E,100:A855F7"
+    width="85%"
+  />
+</p>
+
+<h3 align="center">📫 Contact</h3>
+<p align="center">
+  <a href="mailto:singh.arya.abnish@gmail.com"><img src="https://img.shields.io/badge/email-singh.arya.abnish@gmail.com-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/aryaabnishsingh"><img src="https://img.shields.io/badge/linkedin-aryaabnishsingh-blue?style=for-the-badge&logo=linkedin"/></a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:60A5FA,35:22C55E,70:A855F7,100:0F172A"
+    width="100%"
+  />
 </p>
