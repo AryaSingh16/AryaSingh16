@@ -71,6 +71,14 @@ Machine Learning Engineering · Data Systems · Applied Analytics
   />
 </p>
 
+<p align="center">
+  <img
+    src="./docs/building.svg"
+    width="95%"
+    alt="Building Towards Mind Map"
+  />
+</p>
+
 <h3 align="center">📊 Statistics</h3>
 <p align="center">
   <img width="435px" src="https://github-readme-stats.vercel.app/api?username=AryaSingh16&show_icons=true&hide_border=true&hide_title=true&theme=dark"/>
