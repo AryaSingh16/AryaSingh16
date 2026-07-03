@@ -73,7 +73,7 @@ Machine Learning Engineering · Data Systems · Applied Analytics
 
 <p align="center">
   <img
-    src="./docs/building.svg"
+    src="https://raw.githubusercontent.com/AryaSingh16/AryaSingh16/main/docs/building.svg"
     width="95%"
     alt="Building Towards Mind Map"
   />
