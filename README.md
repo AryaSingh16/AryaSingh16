@@ -24,31 +24,45 @@ Engineering student exploring machine learning through hands-on projects and sof
 </p>
 
 
-<h3 align="center">🛠 Tech Stack</h3>
-
-<table align="center">
+<table width="100%">
 <tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c" />
-  </td>
-</tr>
 
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
-  </td>
-</tr>
+<td width="50%" valign="top" align="center">
 
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=docker,fastapi,linux,aws,vscode" />
-  </td>
-</tr>
+<h3>🛠 Tech Stack</h3>
 
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  </td>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,linux,aws,vscode" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3 align="center">🧭 Learning Roadmap</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AryaSingh16/AryaSingh16/main/docs/building.svg"
+    width="95%"
+    alt="Learning Roadmap"
+  />
+</p>
+
+</td>
+
 </tr>
 </table>
 
@@ -56,26 +70,6 @@ Engineering student exploring machine learning through hands-on projects and sof
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,50:22C55E,100:A855F7"
     width="85%"
-  />
-</p>
-
-<h3 align="center">🎯 Building Towards</h3>
-<p align="center">
-Machine Learning Engineering · Data Systems · Applied Analytics
-
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:60A5FA,50:22C55E,100:A855F7"
-    width="85%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AryaSingh16/AryaSingh16/main/docs/building.svg"
-    width="95%"
-    alt="Building Towards Mind Map"
   />
 </p>
 
@@ -97,7 +91,7 @@ Machine Learning Engineering · Data Systems · Applied Analytics
 
 <h3 align="center">🤝 Ready to Collaborate</h3>
 <p align="center">
-End-to-end ML projects · Data-driven applications · Open-source contributions · Solving real-world challenges
+End-to-end ML projects · Data-driven applications · Solving real-world challenges
 </p>
 
 <p align="center">
