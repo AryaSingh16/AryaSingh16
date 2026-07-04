@@ -104,7 +104,7 @@ End-to-end ML projects · Data-driven applications · Solving real-world challen
 <h3 align="center">📫 Contact</h3>
 <p align="center">
   <a href="mailto:singh.arya.abnish@gmail.com"><img src="https://img.shields.io/badge/email-singh.arya.abnish@gmail.com-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/aryaabnishsingh"><img src="https://img.shields.io/badge/linkedin-aryaabnishsingh-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/arya-abnish-singh"><img src="https://img.shields.io/badge/linkedin-aryaabnishsingh-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 <p align="center">
